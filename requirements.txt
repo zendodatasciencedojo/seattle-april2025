@@ -1,0 +1,24 @@
+pydantic==2.10.6
+httpx==0.28.1
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-openai==0.3.0
+langchain-experimental==0.3.4
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.27.2
+openai==1.63.0
+altair==4
+duckduckgo-search==8.0.0
+pypdf==3.16.4
+chromadb==0.5.5
+
+# Core Dependencies
+tiktoken==0.7.0
+faiss-cpu==1.8.0.post1
+Pillow===10.4.0
+
+# Additional Dependencies
+setuptools>=42
+wheel>=0.36.2
